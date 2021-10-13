@@ -644,9 +644,16 @@
 		"downloadable": true
 	},
 	{
-		"name": "Black Hills",
+		"name": "Flower Pink BG",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall39.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall39.jpg",
+		"collections": "Nature",
+		"downloadable": true
+	},
+	{
+		"name": "Flower Y-O BG",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall40.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall40.jpg",
 		"collections": "Nature",
 		"downloadable": true
 	},
