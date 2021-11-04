@@ -1,19 +1,5 @@
 [
 	{
-		"name": "Sun Set",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn1.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn1.jpg",
-		"collections": "Minimal|Landscape",
-		"downloadable": "false"
-	},
-	{
-		"name": "Sea Rocks",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn2.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn2.jpg",
-		"collections": "Minimal|Landscape",
-		"downloadable": "false"
-	},
-	{
 		"name": "Forest",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn3.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn3.jpg",
@@ -66,13 +52,6 @@
 		"name": "Mother Nature 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn11.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn11.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
-		"name": "Camels",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn12.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn12.jpg",
 		"collections": "Minimal",
 		"downloadable": "false"
 	},
@@ -602,13 +581,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Red-Blue Hills",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall29.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall29.jpg",
-		"collections": "Landscape|Nature",
-		"downloadable": "false"
-	},
-	{
 		"name": "Sky Pink",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall63.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall63.jpg",
@@ -686,24 +658,10 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Boat",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall24.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall24.jpg",
-		"collections": "Landscape|Minimal",
-		"downloadable": "false"
-	},
-	{
 		"name": "One Man",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall4.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall4.jpg",
 		"collections": "Landscape",
-		"downloadable": "false"
-	},
-	{
-		"name": "Green View",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall8.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall8.jpg",
-		"collections": "Landscape|Minimal",
 		"downloadable": "false"
 	},
 	{
@@ -714,13 +672,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "FL 1",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall11.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall11.jpg",
-		"collections": "Fluid",
-		"downloadable": "false"
-	},
-	{
 		"name": "FL 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall12.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall12.jpg",
@@ -728,23 +679,9 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "FL 3",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall13.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall13.jpg",
-		"collections": "Fluid",
-		"downloadable": "false"
-	},
-	{
 		"name": "FL 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall14.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall14.jpg",
-		"collections": "Fluid",
-		"downloadable": "false"
-	},
-	{
-		"name": "FL 5",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall15.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall15.jpg",
 		"collections": "Fluid",
 		"downloadable": "false"
 	},
@@ -980,27 +917,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Green Aurora at Dark",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall10.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall10.jpg",
-		"collections": "Minimal|Dark",
-		"downloadable": "false"
-	},
-	{
-		"name": "Nothing",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall11.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall11.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
-		"name": "Desert",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall12.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall12.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
 		"name": "Foggy Forest",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall14.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall14.jpg",
@@ -1043,13 +959,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Flower",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall6.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall6.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
 		"name": "Gradi BRY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall10.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall10.jpg",
@@ -1074,13 +983,6 @@
 		"name": "Gradi BSb",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall24.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall24.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradi GB",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall26.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall26.jpg",
 		"collections": "Gradient",
 		"downloadable": "false"
 	},
@@ -1123,13 +1025,6 @@
 		"name": "Gradi BRPY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall59.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall59.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradi PP",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall60.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall60.jpg",
 		"collections": "Gradient",
 		"downloadable": "false"
 	},
