@@ -1,5 +1,125 @@
 [
 	{
+		"name": "Neon Leaf",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM001.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM001%20(2).jpg",
+		"collections": "Amoled",
+		"downloadable": "false"
+	},
+	{
+		"name": "Gradi waves",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR006.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR006.jpg",
+		"collections": "Amoled|Gradient",
+		"downloadable": "false"
+	},
+	{
+		"name": "Gla PB",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR005.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR005.jpg",
+		"collections": "Gradient",
+		"downloadable": "false"
+	},
+	{
+		"name": "Dusk",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR004.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR004.jpg",
+		"collections": "Gradient",
+		"downloadable": "false"
+	},
+	{
+		"name": "Wavy OV",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR003.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR003.jpg",
+		"collections": "Gradient",
+		"downloadable": "false"
+	},
+	{
+		"name": "Flame",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR002.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR002.jpg",
+		"collections": "Gradient|Nature",
+		"downloadable": "false"
+	},
+	{
+		"name": "Rockey",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR001.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR001.jpg",
+		"collections": "Gradient|Nature",
+		"downloadable": "false"
+	},
+	{
+		"name": "Sunrise Minimal",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD004.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD004.jpg",
+		"collections": "Landscape|Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Pale Hills",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD003.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD003.jpg",
+		"collections": "Landscape",
+		"downloadable": "false"
+	},
+	{
+		"name": "Night Sky",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD002.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD002.jpg",
+		"collections": "Landscape|Nature",
+		"downloadable": "false"
+	},
+	{
+		"name": "Tent",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD001.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD001.jpg",
+		"collections": "Landscape|Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Dark View",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN005.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN005.jpg",
+		"collections": "Landscape|Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Melted Orange",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN004.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN004.jpg",
+		"collections": "Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Melted Green",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN003.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN003.jpg",
+		"collections": "Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Melted OPB",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN002.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN002.jpg",
+		"collections": "Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Melted Blue",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN001.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN001.jpg",
+		"collections": "Minimal",
+		"downloadable": "false"
+	},
+	{
+		"name": "Melted Blue",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT001.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT001.jpg",
+		"collections": "Minimal",
+		"downloadable": "false"
+	},
+	
+	{
 		"name": "Forest",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn3.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn3.jpg",
