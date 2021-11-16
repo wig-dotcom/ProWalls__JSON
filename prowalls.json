@@ -1,4 +1,18 @@
 [
+    {
+		"name": "PIX 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.jpg",
+		"collections": "Material",
+		"downloadable": "false"
+    },
+    {
+		"name": "GRADI RETRO",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR023.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR023.jpg",
+		"collections": "Gradient|Amoled",
+		"downloadable": "false"
+    },
 
     {
 		"name": "AMO Pr",
