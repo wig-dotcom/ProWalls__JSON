@@ -1,11 +1,27 @@
 [
     {
+		"name": "PIX 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.jpg",
+		"collections": "Material",
+		"downloadable": "false"
+    },
+    {
+		"name": "PIX 3",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/blob/main/MT014.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT014.jpg",
+		"collections": "Gradient|Amoled",
+		"downloadable": "false"
+    },
+	
+    {
 		"name": "PIX 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.jpg",
 		"collections": "Material",
 		"downloadable": "false"
     },
+   
     {
 		"name": "GRADI RETRO",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR023.png",
