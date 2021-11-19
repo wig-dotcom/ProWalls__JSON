@@ -1,5 +1,35 @@
 [
  
+   {
+		"name": "GRADI SMOKE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR024.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR024.jpg",
+		"collections": "Material",
+		"downloadable": "false"
+    },
+    {
+		"name": "GRADI SILK",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR025.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR025.jpg",
+		"collections": "Gradient|Amoled",
+		"downloadable": "false"
+    },
+
+    {
+		"name": "GRADI SKY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR026.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR026.jpg",
+		"collections": "Material",
+		"downloadable": "false"
+    },
+    {
+		"name": "GRADI BLUE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR027.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR027.jpg",
+		"collections": "Gradient|Amoled",
+		"downloadable": "false"
+    }, 
+	
     {
 		"name": "PIX 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT015.png",
