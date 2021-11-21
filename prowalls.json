@@ -1,5 +1,34 @@
 [
    {
+		"name": "Masked",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA009.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA009.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "false"
+    },
+    {
+		"name": "Scare face",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA010.PNG",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA010.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "false"
+    },
+
+    {
+		"name": "Mickey",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA011.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA011.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "false"
+    },
+    {
+		"name": "Military",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA012.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA012.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "false"
+    },
+    {
 		"name": "LIQUID BL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR32.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR32.jpg",
