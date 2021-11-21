@@ -1,13 +1,13 @@
 [
    {
-		"name": "Masked",
+		"name": "MASKED",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA009.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA009.jpg",
 		"collections": "Dope Arts",
 		"downloadable": "false"
     },
     {
-		"name": "Scare face",
+		"name": "SCARE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA010.PNG",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA010.jpg",
 		"collections": "Dope Arts",
@@ -15,14 +15,14 @@
     },
 
     {
-		"name": "Mickey",
+		"name": "MICKEY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA011.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA011.jpg",
 		"collections": "Dope Arts",
 		"downloadable": "false"
     },
     {
-		"name": "Military",
+		"name": "ARMY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA012.jpg",
 		"collections": "Dope Arts",
@@ -42,7 +42,6 @@
 		"collections": "Liquid",
 		"downloadable": "false"
     },
-
     {
 		"name": "LIQUID SM",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.png",
@@ -57,7 +56,6 @@
 		"collections": "Liquid",
 		"downloadable": "false"
     }, 
-   
     {
 		"name": "GRADI BL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR028.png",
@@ -72,7 +70,6 @@
 		"collections": "Gradient",
 		"downloadable": "false"
     },
-    
     {
 		"name": "GRADE LIQUID",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR030.png",
@@ -87,7 +84,6 @@
 		"collections": "Fluid",
 		"downloadable": "false"
     },
-  
     {
 		"name": "GRADI SMOKE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR024.png",
@@ -102,7 +98,6 @@
 		"collections": "Gradient",
 		"downloadable": "false"
     },
-
     {
 		"name": "GRADI SKY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR026.png",
@@ -117,7 +112,6 @@
 		"collections": "Amoled",
 		"downloadable": "false"
     }, 
-	
     {
 		"name": "PIX 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT015.png",
