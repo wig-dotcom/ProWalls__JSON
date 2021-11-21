@@ -1,4 +1,34 @@
 [
+   {
+		"name": "LIQUID BL",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR32.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR32.jpg",
+		"collections": "Liquid",
+		"downloadable": "false"
+    },
+    {
+		"name": "LIQUID SOFT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR33.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR33.jpg",
+		"collections": "Liquid",
+		"downloadable": "false"
+    },
+
+    {
+		"name": "LIQUID SM",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.jpg",
+		"collections": "Liquid",
+		"downloadable": "false"
+    },
+    {
+		"name": "LIQUID FLAME",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR35.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR35.jpg",
+		"collections": "Liquid",
+		"downloadable": "false"
+    }, 
+   
     {
 		"name": "GRADI BL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR028.png",
@@ -13,7 +43,7 @@
 		"collections": "Gradient",
 		"downloadable": "false"
     },
-
+    
     {
 		"name": "GRADE LIQUID",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR030.png",
@@ -95,32 +125,29 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },
-    {
+        },
+	{
 		"name": "PIX 3",
 		"url": "https://github.com/wig-dotcom/ProWalls_Material/blob/main/MT014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT014.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },
-	
-    {
+        },
+        {
 		"name": "PIX 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },
-   
-    {
+        },
+        {
 		"name": "GRADI RETRO",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR023.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR023.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },
-
-    {
+        },
+        {
 		"name": "AMO Pr",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM007.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM007.jpg",
@@ -1273,34 +1300,6 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall5.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall5.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradi BRY",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall10.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall10.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradi PPY",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall20.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall20.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradi YPB",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall22.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall22.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradi Dark",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall30.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall30.jpg",
-		"collections": "Gradient",
 		"downloadable": "false"
 	},
 	{
