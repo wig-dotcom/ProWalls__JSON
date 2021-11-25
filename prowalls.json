@@ -451,27 +451,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "WiG YL",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR013.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR013.jpg",
-		"collections": "Minimal|Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "WiG GR",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR012.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR012.jpg",
-		"collections": "Minimal|Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "WiG BL",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR011.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR011.jpg",
-		"collections": "Minimal|Gradient",
-		"downloadable": "false"
-	},
-	{
 		"name": "Lite ORG",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR010.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR010.jpg",
@@ -885,13 +864,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Material 8",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall8.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall8.jpg",
-		"collections": "Material",
-		"downloadable": "false"
-	},
-	{
 		"name": "Material 10",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall10.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall10.jpg",
@@ -932,13 +904,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall15.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-	},
-	{
-		"name": "Material 16",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall16.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall16.jpg",
-		"collections": "Material",
-		"downloadable": "false"
+	
 	},
 	{
 		"name": "Material 17",
@@ -1175,13 +1141,6 @@
 		"name": "Three Trees",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall13.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall13.jpg",
-		"collections": "Landscape|Minimal",
-		"downloadable": "false"
-	},
-	{
-		"name": "CS",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall15.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall15.jpg",
 		"collections": "Landscape|Minimal",
 		"downloadable": "false"
 	},
