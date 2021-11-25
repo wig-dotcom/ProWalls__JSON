@@ -1,5 +1,34 @@
 [
     {
+		"name": "Android a5",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD014.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD013.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "Android a6",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD015.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD015.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+
+    {
+		"name": "Android a7",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD016.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD016.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "Android a8",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD017.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD017.jpg,
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
 		"name": "ANDROID 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD010.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD010.jpg",
@@ -13,7 +42,6 @@
 		"collections": "Landscape",
 		"downloadable": "True"
     },
-
     {
 		"name": "ANDROID 3",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD012.png",
