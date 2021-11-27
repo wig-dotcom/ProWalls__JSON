@@ -1,5 +1,33 @@
 [
-   
+    {
+		"name": "BEARED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA013.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA013.jpg",
+		"collections": "Dope arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "ALIEN",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA014.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA014.jpg",
+		"collections": "Dope arts",
+		"downloadable": "True"
+    },
+
+    {
+		"name": "SPIDER",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA015.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA015.jpg",
+		"collections": "Dope arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "SWAG",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA016.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA016.jpg",
+		"collections": "Dope arts",
+		"downloadable": "True"
+    },
     {
 		"name": "FLUID 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL008.png",
