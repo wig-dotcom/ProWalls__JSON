@@ -1,6 +1,41 @@
 [
    
     {
+		"name": "PIX F2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT003.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT003.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "PIX F3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT002.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT002.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "PIX F4",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT004.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT004.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "PIX F5",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT005.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT005.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "PIX F6",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT006.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT006.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
 		"name": "SUPER HERO",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA017.jpg",
