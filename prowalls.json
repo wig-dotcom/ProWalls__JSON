@@ -1,6 +1,49 @@
 [
    
     {
+		"name": "BAT J",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA021.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA021.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
+		"name": "FLAMES",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA022.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA022.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+
+    {
+		"name": "ZOREO",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA023.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA023.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
+		"name": "FLOWER 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN009.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN009.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+    {
+		"name": "FLOWER 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN010.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN010.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+    {
+		"name": "DUSK MOUNTAIN",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN011.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN011.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
 		"name": "PIX F2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT003.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT003.jpg",
