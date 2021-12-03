@@ -517,13 +517,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "RO Flames",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR021.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR021.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
 		"name": "Gradi BP with Waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR020.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR020.jpg",
@@ -830,13 +823,6 @@
 		"name": "Melted Blue",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT001.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
-		"name": "Run",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn8.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNn8.jpg",
 		"collections": "Minimal",
 		"downloadable": "false"
 	},
