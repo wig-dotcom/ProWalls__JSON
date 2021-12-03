@@ -1,5 +1,19 @@
 [
    {
+		"name": "PIXEL 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT020.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT020.jpg",
+		"collections": "Material",
+		"downloadable": "False"
+    },
+    {
+		"name": "PIXEL 3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT021.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT021.jpg",
+		"collections": "Material",
+		"downloadable": "False"
+    },
+    {
 		"name": "SWAG 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA024.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA024.jpg",
