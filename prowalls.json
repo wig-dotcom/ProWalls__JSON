@@ -1375,13 +1375,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Creamy Yellow",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/GRwall16.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/GRwall16.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
 		"name": "Color Flaw",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/GRwall4.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/GRwall4.jpg",
@@ -1392,20 +1385,6 @@
 		"name": "Aurora at Dark",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall1.jpg",
-		"collections": "Minimal|Dark",
-		"downloadable": "false"
-	},
-	{
-		"name": "At Night",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall2.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall2.jpg",
-		"collections": "Minimal",
-		"downloadable": "false"
-	},
-	{
-		"name": "Desert Night",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall3.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall3.jpg",
 		"collections": "Minimal|Dark",
 		"downloadable": "false"
 	},
