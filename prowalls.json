@@ -1,6 +1,5 @@
 [
-   
-    {
+   {
 		"name": "SWAG 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA024.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA024.jpg",
@@ -388,24 +387,23 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT016.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },
-
-    {
+        },
+        {
 		"name": "PIX 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT017.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },
-    {
+        },
+        {
 		"name": "PIX 7",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT018.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-    },   
-	
-    {
+       
+        },   
+	{	
 		"name": "PIX 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.jpg",
@@ -608,7 +606,7 @@
 		"collections": "Nature",
 		"downloadable": "false"
 	},
-    {
+        {
 		"name": "FL 22",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL001.jpg",
