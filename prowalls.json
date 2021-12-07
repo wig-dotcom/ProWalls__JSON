@@ -1,5 +1,40 @@
 [
-   {
+    {
+		"name": "RED EYES",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA027.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA027.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
+		"name": "JOKING AGAIN",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA028.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA028.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
+		"name": "JOKE MASK",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA029.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA029.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
+		"name": "BIKER",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA030.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA030.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
+		"name": "SKATE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA031.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA031.jpg",
+		"collections": "Dope arts",
+		"downloadable": "False"
+    },
+    {
 		"name": "PIXEL 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT020.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT020.jpg",
