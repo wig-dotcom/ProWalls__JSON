@@ -1,5 +1,35 @@
 [
-   {
+  
+    {
+		"name": "POWER",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN012.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN012.jpg",
+		"collections": "Minimal",
+		"downloadable": "false"
+    },
+    {
+		"name": "STRIPS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN013.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN013.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+
+    {
+		"name": "FRAME",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN014.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN014.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+    {
+		"name": "NET",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN015.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN015.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+    {
 		"name": "LILLES",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT007.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT007.jpg",
@@ -1407,38 +1437,10 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Gradi Wall PPB",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall55.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall55.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
 		"name": "Stars",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall1.jpg",
 		"collections": "Amoled|Dark",
-		"downloadable": "false"
-	},
-	{
-		"name": "Smooth",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall21.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall21.jpg",
-		"collections": "Amoled|Dark|Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Black Hole",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall28.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall28.jpg",
-		"collections": "Amoled|Dark|Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Water Flaw",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall31.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall31.jpg",
-		"collections": "Amoled|Gradient",
 		"downloadable": "false"
 	},
 	{
