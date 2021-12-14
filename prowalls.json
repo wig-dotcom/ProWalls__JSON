@@ -747,13 +747,6 @@
 		"downloadable": "false"
 	},
 	{
-		"name": "Pink Bolb",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR008.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR008.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
 		"name": "Flot GRD",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR007.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR007.jpg",
@@ -978,20 +971,6 @@
 		"collections": "Amoled",
 		"downloadable": "false"
 	
-	},
-	{
-		"name": "Material 56",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT6.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT6.jpg",
-		"collections": "Material",
-		"downloadable": "false"
-	},
-	{
-		"name": "Material 57",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT7.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT7.jpg",
-		"collections": "Material",
-		"downloadable": "false"
 	},
 	{
 		"name": "Material 1",
@@ -1231,7 +1210,6 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall46.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-	
 	},
 	{
 		"name": "Material 48",
