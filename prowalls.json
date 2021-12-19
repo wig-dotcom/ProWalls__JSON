@@ -1,5 +1,39 @@
 [
-  
+   {
+		"name": "PIX MATERIAL 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT022.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT022.jpg",
+		"collections": "Material",
+		"downloadable": "false"
+    },
+    {
+		"name": "PIX MATERIAL 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT023.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT023.jpg",
+		"collections": "Material",
+		"downloadable": "False"
+    },
+    {
+		"name": "PIX MATERIAL 3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT024.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT024.jpg",
+		"collections": "Material",
+		"downloadable": "False"
+    },
+    {
+		"name": "PIX NATURE 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT012.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT012.jpg",
+		"collections": "NATURE",
+		"downloadable": "False"
+    },
+    {
+		"name": "PIX NATURE 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT013.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT013.jpg",
+		"collections": "NATURE",
+		"downloadable": "False"
+    },
     {
 		"name": "DOPE MASK",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA032.png",
