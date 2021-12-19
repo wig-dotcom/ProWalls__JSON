@@ -14,7 +14,6 @@
 		"collections": "Dope arts",
 		"downloadable": "False"
     },
-
     {
 		"name": "DP SUNSET",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA034.png",
@@ -43,7 +42,6 @@
 		"collections": "Minimal",
 		"downloadable": "False"
     },
-
     {
 		"name": "FRAME",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN014.png",
@@ -69,12 +67,6 @@
 		"name": "BOKEH ASTER",
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT008.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT008.jpg",
-		"collections": "Nature",
-		"downloadable": "False"
-    },
-    {		"name": "LOTUS",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT009.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT009.jpg",
 		"collections": "Nature",
 		"downloadable": "False"
     },
@@ -296,13 +288,6 @@
 		"downloadable": "True"
     },
     {
-		"name": "FLUID 1",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL008.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL008.jpg",
-		"collections": "Fluid",
-		"downloadable": "True"
-    },
-    {
 		"name": "FLUID HIGH",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL009.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL009.jpg",
@@ -489,14 +474,6 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR025.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
-    },
-    {
-		"name": "GRADI SKY",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR026.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR026.jpg",
-		"collections": "Fluid",
-		"downloadable": "false"
     },
     {
 		"name": "GRADI BLUE",
@@ -509,13 +486,6 @@
 		"name": "PIX 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT015.jpg",
-		"collections": "Material",
-		"downloadable": "false"
-    },
-    {
-		"name": "PIX 5",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT016.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT016.jpg",
 		"collections": "Material",
 		"downloadable": "false"
         },
@@ -531,8 +501,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT018.jpg",
 		"collections": "Material",
-		"downloadable": "false"
-       
+		"downloadable": "false"  
         },   
 	{	
 		"name": "PIX 2",
@@ -770,27 +739,6 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR009.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR009.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Flot GRD",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR007.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR007.jpg",
-		"collections": "Gradient",
-		"downloadable": "false"
-	},
-	{
-		"name": "Boat on Sea",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD006.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD006.jpg",
-		"collections": "Landscape",
-		"downloadable": "false"
-	},
-	{
-		"name": "Beach side",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD005.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD005.jpg",
-		"collections": "Landscape",
 		"downloadable": "false"
 	},
 	{
