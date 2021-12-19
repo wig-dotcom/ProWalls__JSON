@@ -482,6 +482,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR027.jpg",
 		"collections": "Amoled",
 		"downloadable": "false"
+   
     }, 
     {
 		"name": "PIX 4",
@@ -1282,4 +1283,5 @@
 		"collections": "Amoled",
 		"downloadable": "false"
 	}
+  
 ]	
