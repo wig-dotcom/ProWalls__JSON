@@ -4,14 +4,14 @@
 		"name": "PIX FLUID 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL011.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL011.jpg",
-		"collections": "FLUID",
+		"collections": "Fluid",
 		"downloadable": "false"
     },
     {
 		"name": "PIX FLUID 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL012.jpg",
-		"collections": "FLUID",
+		"collections": "Fluid",
 		"downloadable": "false"
     
     },
@@ -19,7 +19,7 @@
    	        "name": "PIX FLUID 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL013.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL013.jpg",
-		"collections": "FLUID",
+		"collections": "Fluid",
 		"downloadable": "False"
   
     },
@@ -28,7 +28,7 @@
    	        "name": "PIX FLUID 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL014.jpg",
-		"collections": "FLUID",
+		"collections": "Fluid",
 		"downloadable": "False"
   
     },
@@ -36,7 +36,7 @@
    	        "name": "PIX FLUID 5",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.jpg",
-		"collections": "FLUID",
+		"collections": "Fluid",
 		"downloadable": "False"
   
     },
@@ -45,7 +45,7 @@
    	        "name": "PIX FLUID 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.jpg",
-		"collections": "FLUID",
+		"collections": "Fluid",
 		"downloadable": "False"
   
     },
