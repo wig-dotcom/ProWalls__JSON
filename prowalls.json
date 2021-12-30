@@ -12,8 +12,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL012.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
-    
+		"downloadable": "false"  
     },
     {
    	        "name": "PIX FLUID 3",
@@ -21,10 +20,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL013.jpg",
 		"collections": "Fluid",
 		"downloadable": "False"
-  
     },
     {
- 
    	        "name": "PIX FLUID 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL014.jpg",
@@ -37,56 +34,49 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.jpg",
 		"collections": "Fluid",
-		"downloadable": "False"
-  
+		"downloadable": "False" 
     },
     {
- 
    	        "name": "PIX FLUID 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.jpg",
 		"collections": "Fluid",
 		"downloadable": "False"
-  
     },
     {
-		"name": "PIX NATURE 5",
+		"name": "PIX FLUID 5",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT018.jpg",
-		"collections": "NATURE",
+		"collections": "Fluid",
 		"downloadable": "false"
     },
     {
-		"name": "PIX NATURE 1",
+		"name": "PIX FLUID 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT014.jpg",
-		"collections": "NATURE",
+		"collections": "Fluid",
 		"downloadable": "false"
     },
     {
-		"name": "PIX NATURE 2",
+		"name": "PIX FLUID 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT015.jpg",
-		"collections": "NATURE",
-		"downloadable": "false"
-    
+		"collections": "Fluid",
+		"downloadable": "false" 
     },
     {
-   	        "name": "PIX NATURE 3",
+   	        "name": "PIX FLUID 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT016.jpg",
-		"collections": "NATURE",
+		"collections": "Fluid",
 		"downloadable": "False"
-  
     },
     {
- 
-   	        "name": "PIX NATURE 4",
+   	        "name": "PIX FLUID 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT017.jpg",
-		"collections": "NATURE",
+		"collections": "Fluid",
 		"downloadable": "False"
-  
     },
     {
 		"name": "CHRISTMAS 4",
@@ -100,8 +90,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD025.jpg",
 		"collections": "CHRISTMAS",
-		"downloadable": "false"
-    
+	        "downloadable": "false"
     },
     {
    	        "name": "CHRISTMAS 6",
@@ -109,7 +98,6 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD026.jpg",
 		"collections": "CHRISTMAS",
 		"downloadable": "False"
-  
     },
     {
 		"name": "CHRISTMAS 1",
