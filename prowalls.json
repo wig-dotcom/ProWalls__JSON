@@ -948,7 +948,7 @@
 		"name": "Sunrise Minimal",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD004.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD004.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
@@ -962,21 +962,21 @@
 		"name": "Night Sky",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD002.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD002.jpg",
-		"collections": "Landscape|Nature",
+		"collections": "Nature",
 		"downloadable": "false"
 	},
 	{
 		"name": "Tent",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD001.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
 		"name": "Dark View",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN005.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN005.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
@@ -1025,21 +1025,21 @@
 		"name": "Purple Amoled",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn8.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn8.jpg",
-		"collections": "Gradient|Amoled",
+		"collections": "Amoled",
 		"downloadable": "false"
 	},
 	{
 		"name": "Purple Amoled 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn9.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn9.jpg",
-		"collections": "Gradient|Amoled",
+		"collections": "Amoled",
 		"downloadable": "false"
 	},
 	{
 		"name": "Dark Planet",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/Amoled1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/Amoled1.jpg",
-		"collections": "Amoled|Nature",
+		"collections": "Amoled",
 		"downloadable": "false"
 	},
 	{
@@ -1196,19 +1196,13 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall44.jpg",
 		"collections": "Material",
 		"downloadable": "false"
-	},
-	{
-		"name": "Material 45",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall46.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall46.jpg",
-		"collections": "Material",
-		"downloadable": "false"
+	
 	},
 	{
 		"name": "Color Hills",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall19.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall19.jpg",
-		"collections": "Landscape|Gradient",
+		"collections": "Landscape",
 		"downloadable": "false"
 	},
 	{
@@ -1250,7 +1244,7 @@
 		"name": "White Minimal",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall9.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall9.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
