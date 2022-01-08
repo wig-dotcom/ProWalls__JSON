@@ -225,8 +225,8 @@
 		"name": "CHRISTMAS 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD023.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD023.jpg",
-		"collections": "true",
-		"downloadable": "False"
+		"collections": "Christmas",
+		"downloadable": "true"
     },
     {
 		"name": "PIX MATERIAL 1",
