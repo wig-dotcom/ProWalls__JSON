@@ -1,5 +1,50 @@
 [
-   {
+	
+    {
+		"name": "PLANT X",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT019.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT019.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "PLANT Y",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT020.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT020.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    
+    },
+    {
+   	        "name": "PLANT GRADE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT021.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT021.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+   	        "name": "RED 4",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT022.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT022.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+  
+    },
+    {
+   	        "name": "MOSK",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT023.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT023.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+   	        "name": "BOAT 6",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT024.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT024.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
 		"name": "STUNT GUY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA037.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA037.jpg",
