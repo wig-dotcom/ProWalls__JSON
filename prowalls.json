@@ -1,6 +1,5 @@
 [
-	
-    {
+  {
 		"name": "PLANT X",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT019.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT019.jpg",
@@ -83,7 +82,7 @@
    	        "name": "SMOKER ARM",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.jpg",
-		"collections": "Dope ARTS",
+		"collections": "Dope arts",
 		"downloadable": "False" 
     },
     {
@@ -854,7 +853,7 @@
 		"name": "Dark Waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA001.jpg",
-		"collections": "Dope Arts|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
@@ -945,14 +944,14 @@
 		"name": "FL 24",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL005.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL005.jpg",
-		"collections": "Fluid|Gradient",
+		"collections": "Gradient",
 		"downloadable": "false"
 	},
 	{
 		"name": "FL 27",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL002.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL002.jpg",
-		"collections": "Fluid|Gradient",
+		"collections": "Gradient",
 		"downloadable": "false"
 	},
 	{
@@ -987,7 +986,7 @@
 		"name": "Gradi waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR006.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR006.jpg",
-		"collections": "Amoled|Gradient",
+		"collections": "Amoled",
 		"downloadable": "false"
 	},
 	{
