@@ -118,49 +118,49 @@
    	        "name": "PIX FLUID 5",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "False" 
     },
     {
    	        "name": "PIX FLUID 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "False"
     },
     {
 		"name": "PIX FLUID 7",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT018.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "false"
     },
     {
 		"name": "PIX FLUID 8",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT014.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "false"
     },
     {
 		"name": "PIX FLUID 9",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT015.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "false" 
     },
     {
    	        "name": "PIX FLUID 10",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT016.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "False"
     },
     {
    	        "name": "PIX FLUID 11",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT017.jpg",
-		"collections": "Fluid",
+		"collections": "Liquid",
 		"downloadable": "False"
     },
     {
@@ -230,14 +230,14 @@
 		"name": "PIX FLUID 12",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT012.jpg",
-		"collections": "Fluid",
+		"collections": "Amoled",
 		"downloadable": "False"
     },
     {
 		"name": "PIX FLUID 13",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT013.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT013.jpg",
-		"collections": "Fluid",
+		"collections": "Amoled",
 		"downloadable": "False"
     },
     {
@@ -531,14 +531,14 @@
 		"name": "FLUID HIGH",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL009.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL009.jpg",
-		"collections": "Fluid",
+		"collections": "Amoled",
 		"downloadable": "True"
     },
     {
 		"name": "FLUID PL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL010.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL010.jpg",
-		"collections": "Fluid",
+		"collections": "Amoled",
 		"downloadable": "True"
     },
     {
@@ -650,28 +650,28 @@
 		"name": "LIQUID BL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR32.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR32.jpg",
-		"collections": "Liquid",
+		"collections": "Amoled",
 		"downloadable": "false"
     },
     {
 		"name": "LIQUID SOFT",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR33.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR33.jpg",
-		"collections": "Liquid",
+		"collections": "Amoled",
 		"downloadable": "false"
     },
     {
 		"name": "LIQUID SM",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.jpg",
-		"collections": "Liquid",
+		"collections": "Amoled",
 		"downloadable": "false"
     },
     {
 		"name": "LIQUID FLAME",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR35.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR35.jpg",
-		"collections": "Liquid",
+		"collections": "Amoled",
 		"downloadable": "false"
     }, 
     {
