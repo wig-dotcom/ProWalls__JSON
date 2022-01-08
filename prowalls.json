@@ -82,7 +82,7 @@
    	        "name": "SMOKER ARM",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.jpg",
-		"collections": "Dope arts",
+		"collections": "Dope Arts",
 		"downloadable": "False" 
     },
     {
@@ -168,41 +168,41 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD024.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD024.jpg",
 		"collections": "CHRISTMAS",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "CHRISTMAS 5",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD025.jpg",
 		"collections": "CHRISTMAS",
-	        "downloadable": "false"
+	        "downloadable": "true"
     },
     {
    	        "name": "CHRISTMAS 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD026.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD026.jpg",
 		"collections": "CHRISTMAS",
-		"downloadable": "False"
+		"downloadable": "true"
     },
     {
 		"name": "CHRISTMAS 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD021.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD021.jpg",
 		"collections": "CHRISTMAS",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "CHRISTMAS 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD022.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD022.jpg",
 		"collections": "CHRISTMAS",
-		"downloadable": "False"
+		"downloadable": "true"
     },
     {
 		"name": "CHRISTMAS 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD023.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD023.jpg",
-		"collections": "CHRISTMAS",
+		"collections": "true",
 		"downloadable": "False"
     },
     {
@@ -328,7 +328,7 @@
 		"name": "RED EYES",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA027.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA027.jpg",
-		"collections": "Dope arts",
+		"collections": "Dope Arts",
 		"downloadable": "False"
     },
     {
@@ -1014,7 +1014,7 @@
 		"name": "Rockey",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR001.jpg",
-		"collections": "Gradient|Nature",
+		"collections": "Gradient",
 		"downloadable": "false"
 	},
 	{
@@ -1282,28 +1282,28 @@
 		"name": "Sky Pink",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall63.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall63.jpg",
-		"collections": "Landscape|Gradient",
+		"collections": "Gradient",
 		"downloadable": "false"
 	},
 	{
 		"name": "HL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall65.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall65.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
 		"name": "Three Trees",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall13.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall13.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
 		"name": "Purple View",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall17.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall17.jpg",
-		"collections": "Landscape|Minimal",
+		"collections": "Minimal",
 		"downloadable": "false"
 	},
 	{
