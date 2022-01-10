@@ -1,5 +1,28 @@
 [
-     {
+    
+    {
+		"name": "PIX MATERIAL 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT022.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT022.jpg",
+		"collections": "Material",
+                "downloadable": "True"
+    },
+    {
+		"name": "PIX MATERIAL 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT023.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT023.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    
+    },
+    {
+   	        "name": "PIX MATERIAL 3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT024.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT024.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },    
+    {
 		"name": "PIX MATERIAL 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT025.jpg",
@@ -33,7 +56,7 @@
    	        "name": "PIX MATERIAL 8",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT029.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT029.jpg",
-		"collections": "MATERIAL",
+		"collections": "Material",
 		"downloadable": "True"
     },     
     {
