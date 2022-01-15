@@ -1,5 +1,45 @@
 [
+   
+    {
+		"name": "GRADI BL",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA038.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA038.jpg",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+    {
+		"name": "AMO RD",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA039.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA039.jpg",
+		"collections": "Amoled",
+		"downloadable": "true"
     
+    },
+    {
+   	        "name": "AMO GRADI",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA040.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA040.jpg",
+		"collections": "Amoled",
+		"downloadable": "true"
+  
+    },
+    {
+ 
+   	        "name": "MINI AMO",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA041.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA041.jpg",
+		"collections": "Amoled",
+		"downloadable": "true"
+  
+    },
+    {
+   	        "name": "GRAD 89",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA042.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA042.jpg",
+		"collections": "Amoled",
+		"downloadable": "true" 
+	    
+    },    
     {
 		"name": "PIX MATERIAL 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT022.jpg",
