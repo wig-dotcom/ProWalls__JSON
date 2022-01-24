@@ -1,4 +1,49 @@
 [
+   
+    {
+		"name": "FL 022",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.jpg",
+		"collections": "Landscape",
+		"downloadable": "true"
+    },
+    {
+		"name": "FL 033",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD028.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD028.jpg",
+		"collections": "Landscape",
+		"downloadable": "true"
+    
+    },
+    {
+   	        "name": "FL 044",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD029.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD029.jpg",
+		"collections": "Landscape",
+		"downloadable": "true"
+    },
+    {
+   	        "name": "FL 055",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD030.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD030.jpg",
+		"collections": "Landscape",
+		"downloadable": "true"
+  
+    },
+    {
+   	        "name": "AMO 010",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA043.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA043.jpg",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+    {
+                "name": "AMO 011",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA044.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA044.jpg",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
     {
 		"name": "PIXEL X",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT030.png",
@@ -19,28 +64,23 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT032.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT032.jpg",
 		"collections": "Material",
-		"downloadable": "true"
-  
+		"downloadable": "true"  
     },
-    {
- 
-   	        "name": "HTC 1A",
+    { 
+  	        "name": "HTC 1A",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT033.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT033.jpg",
 		"collections": "Material",
-		"downloadable": "true"
-  
+		"downloadable": "true"  
     },
     {
    	        "name": "HTC 1B",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT034.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT034.jpg",
 		"collections": "Material",
-		"downloadable": "true"
-  
+		"downloadable": "true"  
     },
     {
- 
    	        "name": "HTC 1C",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT035.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT035.jpg",
@@ -68,11 +108,10 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA044.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA044.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
-  
+		"downloadable": "False"  
     },
     {
- 
+
    	        "name": "WEIRED BOY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA045.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA045.jpg",
@@ -86,10 +125,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA046.jpg",
 		"collections": "Dope Arts",
 		"downloadable": "False"
-  
     },
-    {
- 
+    { 
    	        "name": "WAITING",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA047.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA047.jpg",
@@ -117,11 +154,9 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA040.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA040.jpg",
 		"collections": "Amoled",
-		"downloadable": "true"
-  
+		"downloadable": "true" 
     },
     {
- 
    	        "name": "MINI AMO",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA041.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA041.jpg",
