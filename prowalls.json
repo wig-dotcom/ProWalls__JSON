@@ -1,7 +1,65 @@
 [
-   
+  
     {
-		"name": "FL 022",
+		"name": "LAMBORGHINI",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA048.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA048.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "TRUE"
+    },
+    {
+		"name": "MASCOT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA049.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA049.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"    
+    },
+    {
+   	        "name": "SURF",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA050.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA050.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True" 
+    },
+    {
+   	        "name": "ZOMBIE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA051.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA051.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+  
+    },
+    {
+   	        "name": "BOYS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA052.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA052.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+   	        "name": "MASKED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA053.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA053.jpg",
+		"collections": "Dope Arts",
+	        "downloadable": "True"
+    },
+    { 
+   	        "name": "PINOCHIO",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA054.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA054.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True" 
+    },
+    { 
+   	        "name": "DOPE SKULL",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA055.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA055.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    {
+    },
+    
+ 		"name": "FL 022",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.jpg",
 		"collections": "Landscape",
@@ -12,8 +70,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD028.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD028.jpg",
 		"collections": "Landscape",
-		"downloadable": "true"
-    
+		"downloadable": "true"   
     },
     {
    	        "name": "FL 044",
@@ -27,8 +84,7 @@
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD030.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD030.jpg",
 		"collections": "Landscape",
-		"downloadable": "true"
-  
+		"downloadable": "true"  
     },
     {
    	        "name": "AMO 010",
@@ -101,7 +157,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA043.jpg",
 		"collections": "Dope Arts",
 		"downloadable": "false"
-    
+	    
     },
     {
    	        "name": "HOODY",
@@ -116,8 +172,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA045.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA045.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
-  
+		"downloadable": "False"  
     },
     {
    	        "name": "TATOO",
@@ -131,8 +186,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA047.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA047.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
-  
+		"downloadable": "False" 
     }, 
     {
 		"name": "GRADI BL",
@@ -147,7 +201,6 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA039.jpg",
 		"collections": "Amoled",
 		"downloadable": "true"
-    
     },
     {
    	        "name": "AMO GRADI",
@@ -1615,34 +1668,6 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall27.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall27.jpg",
 		"collections": "Nature",
-		"downloadable": "false"
-	},
-	{
-		"name": "Color Neon",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall53.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall53.jpg",
-		"collections": "Dope Arts",
-		"downloadable": "false"
-	},
-	{
-		"name": "ColorMids",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall54.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall54.jpg",
-		"collections": "Dope Arts",
-		"downloadable": "false"
-	},
-	{
-		"name": "Gradient Flaw",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall56.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall56.jpg",
-		"collections": "Dope Arts",
-		"downloadable": "false"
-	},
-	{
-		"name": "Collage",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall58.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/GRwall58.jpg",
-		"collections": "Dope Arts",
 		"downloadable": "false"
 	},
 	{
