@@ -56,8 +56,9 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA055.jpg",
 		"collections": "Dope Arts",
                 "downloadable": "True"
-    {,
-    } 
+     },
+     { 
+   		    
  		"name": "FL 022",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.jpg",
