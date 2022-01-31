@@ -1042,357 +1042,357 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR33.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR33.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "LIQUID SM",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR34.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "LIQUID FLAME",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR35.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR35.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
     }, 
     {
 		"name": "GRADI BL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR028.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR028.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "GRADI METL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR029.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR029.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "GRADE LIQUID",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR030.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR030.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "GRADE FLAME",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR031.PNG",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR031.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "GRADI SMOKE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR024.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR024.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "true"
     },
     {
 		"name": "GRADI SILK",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR025.jpg",
 		"collections": "Gradient",
-	        "downloadable": "false"   
+	        "downloadable": "true"   
     }, 
     {
 		"name": "PIX 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT015.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
         },
         {
 		"name": "PIX 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT017.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
         },
         {
 		"name": "PIX 7",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT018.jpg",
 		"collections": "Material",
-		"downloadable": "false"  
+		"downloadable": "true"  
         },   
 	{	
 		"name": "PIX 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT013.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
         },
 	{
 		"name": "PIX 3",
 		"url": "https://github.com/wig-dotcom/ProWalls_Material/blob/main/MT014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT014.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
         },
         {
 		"name": "PIX 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT012.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
         },
         {
 		"name": "AMO Pr",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM007.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM007.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "AMO Rn",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM006.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM006.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "AMO BP",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM005.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM005.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "AMO Bl",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM004.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM004.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "AMO Bl2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM003.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM003.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi Smokey",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM002.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM002.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "REd Shadow",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA008.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA008.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Spidy",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA007.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA007.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Samurai",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA006.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA006.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Statue 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA005.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA005.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Statue 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA004.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA004.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Statue 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA003.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA003.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Statue 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA002.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA002.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Dark Waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA001.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "FL 28",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL007.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL007.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Red Rocks",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR022.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR022.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi BP with Waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR020.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR020.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Pasted",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR019.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR019.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi Lite Mesh",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR018.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi Lite Mesh 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR017.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi Lite Mesh 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR016.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi Lite Mesh 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR015.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi Lite Mesh 5",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR014.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Dark Leafs",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT001.jpg",
 		"collections": "Nature",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
         {
 		"name": "FL 22",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL001.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "FL 23",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL006.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL006.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "FL 24",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL005.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL005.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "FL 27",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL002.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL002.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Lite ORG",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR010.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR010.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "LG-DB",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR009.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR009.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 61",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT002.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT002.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Neon Leaf",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM001.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/AM001%20(2).jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gradi waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR006.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR006.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Gla PB",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR005.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR005.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Dusk",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR004.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR004.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Wavy OV",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR003.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR003.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Rockey",
@@ -1476,77 +1476,77 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn1.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Purple Amoled",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn8.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn8.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Purple Amoled 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn9.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRn9.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Dark Planet",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/Amoled1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/Amoled1.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Dark Leaf",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/Amoled4.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/Amoled4.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall1.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
         {
 		"name": "Material 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall2.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall2.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall6.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall6.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 13",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall13.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall13.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 14",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall14.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall14.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 15",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall15.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall15.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	
 	},
 	{
@@ -1554,98 +1554,98 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall17.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall17.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 20",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall20.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall20.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "true"
 	},
 	{
 		"name": "Material 21",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall21.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall21.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 23",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall23.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall23.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 24",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall24.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall24.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 25",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall25.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall25.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 26",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall26.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall26.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 27",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall27.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall27.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 28",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall28.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall28.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 30",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall30.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall30.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 36",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall37.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall37.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 41",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall42.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall42.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 42",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall43.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall43.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Material 43",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall44.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MTwall44.jpg",
 		"collections": "Material",
-		"downloadable": "false"
+		"downloadable": "True"
 	
 	},
 	{
@@ -1653,168 +1653,168 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall19.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall19.jpg",
 		"collections": "Landscape",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Sky Pink",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall63.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall63.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "HL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall65.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/GRwall65.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Three Trees",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall13.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall13.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Purple View",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall17.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall17.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "One Man",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall4.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall4.jpg",
 		"collections": "Landscape",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "White Minimal",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall9.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/MNwall9.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "FL 8",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall35.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall35.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "FL 9",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall36.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall36.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "FL 13",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall44.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall44.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "FL 17",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall50.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall50.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "FL 19",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall61.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall61.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "FL 21",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall8.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/GRwall8.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Black Hills",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall27.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/GRwall27.jpg",
 		"collections": "Nature",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Aurora at Dark",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall1.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall1.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Beach",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall5.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MNwall5.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Gradi Dark Bumps",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall47.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GRwall47.jpg",
 		"collections": "Gradient",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "oLED Wave",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall32.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall32.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Color Shadow",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall33.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall33.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Space Waves",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall34.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall34.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Bumps B",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall48.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall48.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Bumps D",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall49.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall49.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Ld BPSb",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall66.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall66.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	},
 	{
 		"name": "Ld BRPYSb",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall67.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/GRwall67.jpg",
 		"collections": "Amoled",
-		"downloadable": "false"
+		"downloadable": "True"
 	}
   
 ]	
