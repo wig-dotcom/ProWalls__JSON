@@ -1,6 +1,82 @@
 [
   
     {
+		"name": "PIX 6 A",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT036.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT036.jpg",
+		"collections": "Material",
+		"downloadable": "TRUE"
+    },
+    {
+		"name": "PIX 6 B",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT037.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT037.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    
+    },
+    {
+   	        "name": "PIX 6 C",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT038.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT038.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "PIX 6 D",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT039.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT039.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+   	        "name": "PIX 6 E",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT040.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT040.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "MAT 1",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT041.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT041.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "GLASS 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT042.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT042.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "BUBBLE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT043.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT043.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "PIX 6 F",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT044.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT044.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
 		"name": "LAMBORGHINI",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA048.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA048.jpg",
