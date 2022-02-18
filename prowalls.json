@@ -1,5 +1,44 @@
 [
+    {
+		"name": "TIGRE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA056.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA056.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "BACKOFF",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA057.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA057.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    
+    },
+    {
+   	        "name": "BOYS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA058.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA058.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
   
+    },
+    {
+ 
+   	        "name": "CACTUS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA059.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA059.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+  
+    },
+    {
+   	        "name": "SPIDEY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA060.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA060.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+  
+    },
     {
 		"name": "URANUS",
 		"url": "https://gitthub.com/wig-dotcom/ProWalls_MInimal/raw/main/MN016.png",
