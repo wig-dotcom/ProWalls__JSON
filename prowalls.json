@@ -1,6 +1,83 @@
 [
   
     {
+		"name": "NATURE 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT028.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT028.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "SMOKY TRAIN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT029.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT029.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    
+    },
+    {
+   	        "name": "FOREST TRAIN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT031.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT031.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "SCENIC",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT032.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT032.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+   	        "name": "HIGHENDS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT033.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT033.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "DEEP FOREST",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT034.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT034.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "PAATHWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT035.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT035.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "NATURE 2",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT036.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT036.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "SEA SAW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT037.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT037.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+ 
 		"name": "SERENE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD043.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD043.jpg",
