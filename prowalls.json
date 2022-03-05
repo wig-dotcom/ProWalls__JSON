@@ -1,5 +1,80 @@
 [
-	
+   {
+		"name": "SNOWSET",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN022.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN022.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    },
+    {
+		"name": "SMOKY TRAIN",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN023.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN023.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    
+    },
+    {
+   	        "name": "SNOWHOUSE",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN024.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN024.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "FOREST GUMP",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN025.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN025.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+   	        "name": "BLACK LEAFS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN026.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN026.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "MOUNTAIN WAY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN027.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN027.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "STAYING",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN028.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN028.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "MINIMAL",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN029.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN029.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+ 
+   	        "name": "PALM GRADIENT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN030.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN030.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
     {
 	        "name": "MOS",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT028.png",
