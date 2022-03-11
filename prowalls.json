@@ -1,6 +1,36 @@
 [
-   {
-		"name": "GRAD 1",
+    {
+		"name": "FOREST",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA068.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA068.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PALM",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA069.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA069.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+
+    {
+		"name": "TRACK",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA070.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA070.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "LEAF",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA071.PNG",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA071.jpg",
+		"collections": "Dope Arts"
+	        "downloadable": "True"
+    
+    }
+    {
+	 	"name": "GRAD 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR36.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR36.jpg",
 		"collections": "Gradient",
