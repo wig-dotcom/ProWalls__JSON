@@ -1,5 +1,12 @@
 [	    
-  
+   
+    {
+		"name": "Bluish",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT071.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT071.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    },
     {
 		"name": "Baby Blue",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT059.png",
