@@ -1,6 +1,114 @@
 [	    
    
     {
+		"name": "AM1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA071.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA071.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA072.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA072.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AM3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA073.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA073.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM4",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA074.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA074.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AM5",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA075.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA075.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM6",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA076.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA076.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AM7",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA077.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA077.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM8",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA078.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA078.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM9",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA079.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA079.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM10",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA080.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA080.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM11",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA081.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA081.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM12",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA082.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA082.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM13",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA083.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA083.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "AM14",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA084.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA084.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AM15",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA085.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA085.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
 		"name": "GL1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA055.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA055.jpg",
