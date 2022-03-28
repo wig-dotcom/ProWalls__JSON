@@ -58,13 +58,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL024.jpg",
 		"collections": "Pixelseries",
 		"downloadable": "True"
-    },
-    {
-		"name": "A1216",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA079.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA079.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
+
     },
     {
 		"name": "A1217",
