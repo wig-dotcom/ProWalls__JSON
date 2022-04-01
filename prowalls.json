@@ -1346,7 +1346,7 @@
 		"url": "https://gitthub.com/wig-dotcom/ProWalls_MInimal/raw/main/MN016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN016.jpg",
 		"collections": "Asthetic",
-		"downloadable": "TRUE"
+		"downloadable": "True"
     },
     {
 		"name": "SURRENDER",
@@ -1627,56 +1627,56 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD027.jpg",
 		"collections": "Landscape",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
 		"name": "FL 033",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD028.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD028.jpg",
 		"collections": "Landscape",
-		"downloadable": "true"   
+		"downloadable": "True"   
     },
     {
    	        "name": "FL 044",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD029.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD029.jpg",
 		"collections": "Landscape",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
    	        "name": "FL 055",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD030.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD030.jpg",
 		"collections": "Landscape",
-		"downloadable": "true"  
+		"downloadable": "True"  
     },
     {
    	        "name": "AMO 010",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA043.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA043.jpg",
 		"collections": "Amoled",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
                 "name": "AMO 011",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA044.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA044.jpg",
 		"collections": "Amoled",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
 		"name": "PIXEL X",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT030.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT030.jpg",
 		"collections": "Material",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
 		"name": "PIXEL Y",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT031.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT031.jpg",
 		"collections": "Material",
-		"downloadable": "true"
+		"downloadable": "True"
     
     },
     {
@@ -1684,28 +1684,28 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT032.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT032.jpg",
 		"collections": "Material",
-		"downloadable": "true"  
+		"downloadable": "True"  
     },
     { 
   	        "name": "HTC 1A",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT033.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT033.jpg",
 		"collections": "Material",
-		"downloadable": "true"  
+		"downloadable": "True"  
     },
     {
    	        "name": "HTC 1B",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT034.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT034.jpg",
 		"collections": "Material",
-		"downloadable": "true"  
+		"downloadable": "True"  
     },
     {
    	        "name": "HTC 1C",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT035.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT035.jpg",
 		"collections": "Material",
-		"downloadable": "true"
+		"downloadable": "True"
   
     },
     {
@@ -1713,14 +1713,14 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "MASKED 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA043.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA043.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "True"
 	    
     },
     {
@@ -1728,7 +1728,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA044.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA044.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"  
+		"downloadable": "True"  
     },
     {
 
@@ -1743,42 +1743,42 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA046.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA046.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     { 
    	        "name": "WAITING",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA047.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA047.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False" 
+		"downloadable": "True" 
     }, 
     {
 		"name": "GRADI BL",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA038.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA038.jpg",
 		"collections": "Amoled",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
 		"name": "AMO RD",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA039.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA039.jpg",
 		"collections": "Amoled",
-		"downloadable": "true"
+		"downloadable": "True"
     },
     {
    	        "name": "AMO GRADI",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA040.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA040.jpg",
 		"collections": "Amoled",
-		"downloadable": "true" 
+		"downloadable": "True" 
     },
     {
    	        "name": "MINI AMO",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA041.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA041.jpg",
 		"collections": "Amoled",
-		"downloadable": "true"
+		"downloadable": "True"
   
     },
     {
@@ -1786,7 +1786,7 @@
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA042.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA042.jpg",
 		"collections": "Amoled",
-		"downloadable": "true" 
+		"downloadable": "True" 
  
     },
     {
@@ -1891,7 +1891,7 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT022.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT022.jpg",
 		"collections": "Nature",
-		"downloadable": "False"
+		"downloadable": "True"
   
     },
     {
@@ -1899,84 +1899,84 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT023.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT023.jpg",
 		"collections": "Nature",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
    	        "name": "BOAT 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT024.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT024.jpg",
 		"collections": "Nature",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "STUNT GUY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA037.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA037.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "CLICK",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA038.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA038.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false" 
+		"downloadable": "True" 
     },
     {
    	        "name": "SKATE 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA039.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA039.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
    	        "name": "SKATE 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA040.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA040.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
    	        "name": "ALONE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA041.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA041.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"	    
+		"downloadable": "True"	    
     },
     {
    	        "name": "SMOKER ARM",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA042.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False" 
+		"downloadable": "True" 
     },
     {
 		"name": "PIX FLUID 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL011.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL011.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "PIX FLUID 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL012.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"  
+		"downloadable": "True"  
     },
     {
    	        "name": "PIX FLUID 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL013.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL013.jpg",
 		"collections": "Fluid",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
    	        "name": "PIX FLUID 4",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL014.jpg",
 		"collections": "Fluid",
-		"downloadable": "False"
+		"downloadable": "True"
   
     },
     {
@@ -1984,49 +1984,49 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL015.jpg",
 		"collections": "Fluid",
-		"downloadable": "False" 
+		"downloadable": "True" 
     },
     {
    	        "name": "PIX FLUID 6",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL016.jpg",
 		"collections": "Fluid",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "PIX FLUID 7",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT018.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "PIX FLUID 8",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT014.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT014.jpg",
 		"collections": "Fluid",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "PIX FLUID 9",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT015.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT015.jpg",
 		"collections": "Fluid",
-		"downloadable": "false" 
+		"downloadable": "True" 
     },
     {
    	        "name": "PIX FLUID 10",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT016.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT016.jpg",
 		"collections": "Fluid",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
    	        "name": "PIX FLUID 11",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT017.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT017.jpg",
 		"collections": "Fluid",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "CHRISTMAS 4",
@@ -2110,42 +2110,42 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA032.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA032.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "WOLVERINE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA033.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA033.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "DP SUNSET",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA034.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA034.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "DOPE CAMERA",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA035.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA035.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "POWER",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN012.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN012.jpg",
 		"collections": "Minimal",
-		"downloadable": "false"
+		"downloadable": "True"
     },
     {
 		"name": "STRIPS",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN013.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN013.jpg",
 		"collections": "Minimal",
-		"downloadable": "False"
+		"downloadable": "True"
 
     },
     {
@@ -2160,126 +2160,126 @@
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT008.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT008.jpg",
 		"collections": "Nature",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "JENEA",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT010.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT010.jpg",
 		"collections": "Nature",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "RED BEAUTY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT011.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT011.jpg",
 		"collections": "Nature",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "RED EYES",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA027.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA027.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "JOKING AGAIN",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA028.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA028.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "JOKE MASK",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA029.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA029.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "BIKER",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA030.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA030.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "SKATE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA031.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA031.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "PIXEL 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT020.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT020.jpg",
 		"collections": "Material",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "PIXEL 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT021.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT021.jpg",
 		"collections": "Material",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "SWAG 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA024.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA024.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "SWAG 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA025.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "SWAG 3",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA026.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA026.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "PIXEL 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT019.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT019.jpg",
 		"collections": "Material",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "BAT J",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA021.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA021.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "ZOREO",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA023.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Dope-Arts/main/DA023.jpg",
 		"collections": "Dope Arts",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "FLOWER 2",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN009.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN009.jpg",
 		"collections": "Minimal",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "FLOWER 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN010.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN010.jpg",
 		"collections": "Minimal",
-		"downloadable": "False"
+		"downloadable": "True"
     },
     {
 		"name": "DUSK MOUNTAIN",
