@@ -1,6 +1,114 @@
 [	    
    
     {
+		"name": "COLOROS1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR50.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR50.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "COLOROS2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR51.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR51.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "COLOROS3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR52.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR52.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "COLOROS4",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR53.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR53.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "COLOROS5",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR54.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR54.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "ICY FOREST",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR55.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR55.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "DSHAPES",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR56.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR56.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "LEAFY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR57.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR57.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "MOUNTVIEW",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR58.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR58.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "HOLED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR59.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR59.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "DARKSEA",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR60.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR60.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "MINIMAL BOAT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR61.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR61.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "DARK PALM",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR62.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR62.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "BALL RING",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR63.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR63.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    },
+    {
+		"name": "FOREST",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR64.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR64.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
 		"name": "MILES AWAY",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL028.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL028.jpg",
