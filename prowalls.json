@@ -1,6 +1,128 @@
 [	    
    
     {
+		"name": "LEAFY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT072.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT072.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLACK FOREST",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT073.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT073.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "LAMP",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT074.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT074.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "LAVA",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT075.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT075.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "BLUBS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT076.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT076.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "STRIPS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT077.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT077.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "STRIPS BOLD",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT078.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT078.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIAL U",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT079.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT079.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIAL NATURE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT080.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT080.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIAL COLOR",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT081.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT081.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIAL SKY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT082.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT082.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "IOS TECH",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT083.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT083.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "IOS NATURE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT084.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT084.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "ENCHANTING",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/M085.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/M085.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "SCENIC",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT086.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT086.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "NATURE SCENE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT087.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT087.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRADI FLOWER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT088.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/blob/main/MT088.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
 		"name": "SUBURN",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL037.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL037.jpg",
