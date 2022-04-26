@@ -1,5 +1,122 @@
 [	    
-   {
+   
+    {
+		"name": "GRAPHITTI",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD060.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD060.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PALMS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD061.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD061.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "DAYBREAK",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD062.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD062.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "CLOUDY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD063.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD063.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "HIGHVIEW",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD064.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD064.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "LONELYBEACH",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD065.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD065.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PINKVIEW",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD066.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD066.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "FLYINGHIGH",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD067.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD067.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "MOUNTAIN GRID",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD068.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD068.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUBWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD069.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD069.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "PALMSTORY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD070.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD070.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "BEAUTY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD071.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD071.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "HIGHPINES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD072.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD072.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "EYECANDY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD073.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD073.jpg",
+		"collections": "LANDSCAPE",
+		"downloadable": "True"
+    },
+    {
+		"name": "DWARF",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD074.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD074.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "EYE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD075.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD075.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },	
+    {
 		"name": "FOREST GUMP",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL053.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL053.jpg",
