@@ -1,5 +1,113 @@
 [	    
-   
+    {
+		"name": "RACED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN047.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN047.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "NIGHT DRIVE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN048.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN048.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "FOOTS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN049.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN049.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "BUBBLES",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN050.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN050.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "CHOPPER",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN051.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN051.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "RELAXING",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN052.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN052.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "GLOPS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN053.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN053.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "GLASSDROPS",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN054.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN054.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "BEACHWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN055.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN055.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "MOODY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN056.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN056.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "PATHWAY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN057.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN057.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLACK ROCK",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN058.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN058.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "MINISM",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN059.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN059.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "LIGHTHOUSE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN060.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN060.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "FOGED VIEW",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN061.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN061.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
     {
 		"name": "GRAPHITTI",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD060.png",
@@ -99,7 +207,7 @@
 		"name": "EYECANDY",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD073.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD073.jpg",
-		"collections": "LANDSCAPE",
+		"collections": "Landscape",
 		"downloadable": "True"
     },
     {
