@@ -2298,57 +2298,7 @@
 		"downloadable": "True"
   
     },
-    {
-		"name": "URANUS",
-		"url": "https://gitthub.com/wig-dotcom/ProWalls_MInimal/raw/main/MN016.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN016.jpg",
-		"collections": "Asthetic",
-		"downloadable": "True"
-    },
-    {
-		"name": "SURRENDER",
-		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN017.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN017.jpg",
-		"collections": "Asthetic",
-		"downloadable": "True"
-    
-    },
-    {
-   	        "name": "MACRONOMIA",
-		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN018.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN018.jpg",
-		"collections": "Asthetic",
-		"downloadable": "True"
-  
-    },
-    {
- 
-   	        "name": "CATSEYE",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN019.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN019.jpg",
-		"collections": "Asthetic",
-		"downloadable": "True"
-  
-    },
-    {
-   	        "name": "TRUTH",
-		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN020.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN020.jpg",
-		"collections": "Asthetic",
-		"downloadable": "True"
-  
-    },
-    {
- 
-   	        "name": "GRIMALKIN",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN021.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN021.jpg",
-		"collections": "Asthetic",
-		"downloadable": "True"
-  
-    },
-    {
- 
+    { 
    	        "name": "CDI",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD037.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD037.jpg",
