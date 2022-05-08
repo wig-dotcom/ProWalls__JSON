@@ -573,13 +573,6 @@
   
     },
     {
-		"name": "GRADI CITY",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT051.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT051.jpg",
-		"collections": "RareIOS",
-		"downloadable": "True"
-    },
-    {
 		"name": "SEA VIEW",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT052.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT052.jpg",
@@ -700,36 +693,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT087.jpg",
 		"collections": "RareIOS",
 		"downloadable": "True"
-	    
-    },	    
-    {
-		"name": "SUBURN",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL037.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL037.jpg",
-		"collections": "RareIOS",
-		"downloadable": "True"
-    },
-    {
-		"name": "RIVERWAY",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL038.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL038.jpg",
-		"collections": "RareIOS",
-		"downloadable": "True"
-    },
-    {
-		
-                "name": "CLOSEEYE",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL039.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL039.jpg",
-		"collections": "RareIOS",
-		"downloadable": "True"
-    },
-    {
-		"name": "RIVERVIEW",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL040.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Fluid/main/FL040.jpg",
-		"collections": "RareIOS",
-		"downloadable": "True"
+	   
+    
     },
     {
 		
