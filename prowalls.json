@@ -85,7 +85,8 @@
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT064.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT064.jpg",
 		"collections": "Nature",
-		"downloadable": "True" 
+  		"downloadable": "True" 
+    },
     {
 		"name": "qbr1",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL073.png",
