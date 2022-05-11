@@ -1,13 +1,15 @@
 [	    
+   
     {
 		"name": "fwflg1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN062.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN062.jpg",
 		"collections": "Dope Arts",
 		"downloadable": "True"
+  
     },
     {
-		"name": "rebfmk2",
+	        "name": "rebfmk2",
 		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN063.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN063.jpg",
 		"collections": "Asthetic",
