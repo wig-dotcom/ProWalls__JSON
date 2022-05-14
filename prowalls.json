@@ -1884,20 +1884,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT070.jpg",
 		"collections": "Pixelseries",
 		"downloadable": "True"
-    }, 
-    {
-		"name": "FOREST 2",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD054.png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD054.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-    },
-    {
-		"name": "FLOWER 1",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD057.png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD057.jpg",
-		"collections": "Tropical",
-		"downloadable": "True"
+  
     },
     {
 		
@@ -1913,21 +1900,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD059.jpg",
 		"collections": "Tropical",
 		"downloadable": "True"
-    },
-    {
-		"name": "NATURE 2",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD053.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD053.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-    },
-    {
-		
-                "name": "FOREST 3",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD055.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD055.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
+  
     },
     {
 		"name": "PINE PEAKS",
@@ -2317,54 +2290,13 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT037.jpg",
 		"collections": "Nature",
 		"downloadable": "True"
-  
-    },
-    {
- 
-		"name": "SERENE",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD043.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD043.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-    },
-    {
-		"name": "ROCKY MOUNTAIN",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD044.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD044.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-    
-    },
-    {
-   	        "name": "WILD FLOWERS",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD045.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD045.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-  
-    },
-    {
- 
-   	        "name": "SMOKY MOUNTAINS",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD046.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD046.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
+     
   
     },
     {
    	        "name": "GRADI BUDDS",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD047.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD047.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-  
-    },
-    {
- 
-   	        "name": "RIVERWAY",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD048.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD048.jpg",
 		"collections": "Landscape",
 		"downloadable": "True"
   
@@ -2385,22 +2317,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD050.jpg",
 		"collections": "Landscape",
 		"downloadable": "True"
-    },
-    {
-    	        "name": "DARK WATERFALL",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD051.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD051.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-    },
-    {
- 
-   	        "name": "LEAFS",
-		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD052.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD052.jpg",
-		"collections": "Landscape",
-		"downloadable": "True"
-  
+   
+   
     },
     {
 		"name": "FOREST",
