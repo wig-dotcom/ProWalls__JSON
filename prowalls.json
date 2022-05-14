@@ -1,6 +1,150 @@
 [	    
    
     {
+		"name": "BACKCLOTH",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN081.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN081.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "DISGUISE",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN082.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN082.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "CLOACK",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN083.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN083.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUGARCOAT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN084.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN084.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PALLIATE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN085.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN085.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "DESSEMBLE",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN086.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN086.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "ENSHROUD",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN087.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN087.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "SWATHE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN088.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN088.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "OBSCURE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN089.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN089.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "SECLUDE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN090.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN090.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "COCOON",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN091.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN091.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "VENEER",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN092.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN092.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "SECLUDE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN093.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN093.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "BEFOG",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN094.PNG",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN094.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "DRAPE",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN095.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN095.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "CAPARISON",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN096.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN096.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "FANCIFY",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN097.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN097.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "ADORN",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN098.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN098.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "FESTOON",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN099.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN099.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "MANTLE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN0100.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN0100.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
 		"name": "BASSWOOD",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN062.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN062.jpg",
