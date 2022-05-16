@@ -1,5 +1,113 @@
 [	    
-   
+    {
+		"name": "HALFWIT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR65.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR65.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		"name": "NIGHTSCAPE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR66.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR66.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "HIGHWAY2",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR67.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR67.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		"name": "BROWNBEACH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR68.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR68.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "GREENPALM",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR69.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR69.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		"name": "ROPEWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR70.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR70.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "DUNCE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR71.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR71.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		"name": "CLOD",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR72.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR72.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRADIENTPALM",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR73.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR73.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "SLOPE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR74.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR74.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "INCLINE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR75.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR75.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "RAMP",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR76.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR76.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "ACLIVITY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR77.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR77.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "DECLIVITY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR78.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR78.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRADE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR79.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR79.jpg",
+		"collections": "Pixel 7",
+		"downloadable": "True"
+    },
     {
 		"name": "BACKCLOTH",
 		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN081.png",
