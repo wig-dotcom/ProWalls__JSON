@@ -81,49 +81,7 @@
 		"downloadable": "True"
     },
     {
-		"name": "SLOPE",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT065.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT065.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
-    },
-    {
-		"name": "INCLINE",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT066.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT066.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
-    },
-    {
-		"name": "RAMP",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT067.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT067.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
-    },
-    {
-		"name": "ACLIVITY",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT068.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT068.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
-  
-    },
-    {
-		"name": "DECLIVITY",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT069.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT069.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
-    },
-    {
-		"name": "GRADE",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR79.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR79.jpg",
-		"collections": "Pixelseries",
-		"downloadable": "True"
-    },
-    {
+	
 		"name": "BACKCLOTH",
 		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN081.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_MInimal/main/MN081.jpg",
