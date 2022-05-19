@@ -1,6 +1,108 @@
 [	    
    
     {
+		"name": "BEING",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT072.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT072.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		"name": "ESSENCE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT073.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT073.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "GUIDITY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT074.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT074.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		"name": "GLOOMINESS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT075.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT075.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "SUBSTANCE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT076.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT076.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		"name": "FLAVOR",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT077.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT077.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "ON THE FENCE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT078.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT078.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		"name": "SPIRIT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT079.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT079.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUBSTANCE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT080.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT080.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "PERSUASIAN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT081.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT081.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "CREATION",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT082.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT082.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "SENSIBILITY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT083.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT083.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUNDOWN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT084.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT084.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "OUTDOOR",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT085.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT085.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
 		"name": "YELOWED",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT070.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT070.jpg",
