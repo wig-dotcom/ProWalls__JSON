@@ -1,6 +1,101 @@
 [	    
    
     {
+		"name": "MA1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR80.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR80.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MA2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR81.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR81.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MA3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR82.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR82.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MA4",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR83.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR83.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MA5",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR84.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR84.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MA6",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR85.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR85.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "FENCE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR86.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR86.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "SPIRIT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR87.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR87.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "SOUL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR88.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR88.jpeg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "DILATATION",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR90.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR90.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "WINTER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GR91.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR91.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "MINIMAL NIGHT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR92.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR92.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "EVENTIDE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR93.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR93.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
 		"name": "BEING",
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT072.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Nature/main/NT072.jpg",
