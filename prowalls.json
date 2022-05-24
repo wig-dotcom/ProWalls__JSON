@@ -1,6 +1,115 @@
 [	    
    
     {
+		"name": "SHADE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT089.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT089.jpg",
+		"collections": "Gradient",
+		"downloadable": "False"
+    },
+    {
+		"name": "HIGHOAKS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT090.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT090.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "RIVERA",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT091.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT091.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		"name": "LIGHTHOUSE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT092.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT092.jpg",
+		"collections": "Minimal",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "WINTERLIGHT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT093.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT093.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		"name": "PINNACLE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT094.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT094.jpg",
+		"collections": "Nature",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "PIXYSHAPES",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT095.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT095.jpg",
+		"collections": "Material",
+		"downloadable": "False"
+    },
+    {
+		"name": "SAAPLING",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT096.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT096.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "HIGHLINER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT097.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT097.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "HUMP",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT098.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT098.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "EVENTIDE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT099.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT099.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "NIGHTSER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT0100.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT0100.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUNDOWN2",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT0101.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT0101.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "PALLETEWALL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT0102.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT0102.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRAFITIED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/MT0103.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT0103.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
 		"name": "MA1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR80.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Gradient/main/GR80.jpg",
