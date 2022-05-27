@@ -1,5 +1,148 @@
 [	    
-   
+     {
+		"name": "HUE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA086.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA086.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "TINT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA087.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA087.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "TONE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA088.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA088.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "COMPLEXION",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA089.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA089.jpg",
+		"collections": "Fluid",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "STAIN",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA090.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA090.jpg",
+		"collections": "Fluid",
+		"downloadable": "True"
+    },
+    {
+		"name": "PIXED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA091.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA091.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PIXLILIFY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA092.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA092.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "False"
+    },
+    {
+		"name": "LIQUID CRYSTAL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA093.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA093.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "GOOGLED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA094.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA094.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    },
+    {
+		"name": "DIGITALISED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA095.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA095.jpg",
+		"collections": "Gradient",
+		"downloadable": "True"
+    },
+    {
+		"name": "PROLED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA096.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA096.jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "PALPEBLE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA097.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/blob/main/DA097.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "BODILY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA098.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA098.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "COLORGRAPH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA099.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA099.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLOSSOM",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA100.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA100.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "UNFOLD",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA101.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA101.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "FRESHNESS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA102.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA102.jpg",
+		"collections": "PixeLseries",
+		"downloadable": "True"
+    },
+    {
+		"name": "BURGEON",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA103.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA103.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "CREAMY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA104.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA104.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "ELITE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA105.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA105.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    },
     {
 		"name": "SHADE",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Material/main/MT089.png",
