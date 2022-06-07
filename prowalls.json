@@ -1,6 +1,129 @@
 [	    
    
     {
+		"name": "ARECA",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD075.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD075.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "WINDOWS11",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD076.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD076.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PROSPECT",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD077.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD077.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "FROND",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD078.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD078.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "CARDIAL",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD079.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD079.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "HIGHPEAK",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD080.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD080.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "RAFTER",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD081.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD081.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "LIGHTNING",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD082.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD082.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "COLRBOX",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD083.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD083.png",
+		"collections": "Fluid",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRADIENTA",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD084.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD084.jpg",
+		"collections": "Fluid",
+		"downloadable": "True"
+    },
+    {
+		"name": "NATORIOUS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD085.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD085.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "CIRCOLIOUS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD086.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD086.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "CREAMED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD087.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD087.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "GLASSED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD088.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD088.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLOSSOM",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD089.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD089.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRAFFITE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD090.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD090.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "PINKED",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD091.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD091.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
 		"name": "FLORET",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA111.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA111.jpg",
