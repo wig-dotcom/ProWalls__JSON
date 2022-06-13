@@ -1,6 +1,143 @@
 [	    
    
     {
+		"name": "SKATE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA124.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA124.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "SHOES",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA125.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA125.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "SEQUEL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA126.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA126.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLUBS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA127.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA127.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "FLOCKY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA128.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA128.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "SHAPES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA129.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA129.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "RACES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA130.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA130.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "LIGHTED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA131.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA131.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "BEACH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA132.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA132.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "BUKEH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA133.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA133.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "NESTER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA134.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA134.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "COLIOUS",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA135.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA135.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "PEAKOUT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA136.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA136.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "CITY",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA137.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA137.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "YOU CAN",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA138.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA138.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "UNIVERSE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA139.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA139.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "WIRELINE",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA140.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA140.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "BURGEONLY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA141.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA141.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "FLAWER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA142.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Amoled/main/DA142.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    }, 
+    {
 		"name": "ARECA",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD075.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/ProWalls_Landscape/main/LD075.jpg",
