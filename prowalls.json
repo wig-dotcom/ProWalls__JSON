@@ -1,5 +1,120 @@
 [	    
-   
+    {
+		"name": "WINDOWS 1",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL093.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL093.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "PIXELIUM",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL094.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL094.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "COLOR OIS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL095.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL095.jpg",
+		"collections": "Glass",
+		"downloadable": "True"
+    },
+    {
+		"name": "PERPENDICULAR",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL096.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL096.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "LEAVES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL097.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL097.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "PANTONIOUS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL098.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL098.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "BAMBINO",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL099.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL099.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "SHAPING OUT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL100.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL100.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIALIS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL101.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL101.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "SCENIC",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL102.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL102.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "SILHOUTED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL103.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL103.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "CINDI",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL104.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL104.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUNSCAPED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL105.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL105.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "PANTONIED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL106.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL106.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLOSSOMVIEW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL107.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL107.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLOOMING",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL108.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL108.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
     {
 		"name": "SCAPE 1",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA083.png",
