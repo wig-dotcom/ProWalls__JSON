@@ -1,6 +1,171 @@
 [	    
    
     {
+		"name": "MOONLIGHT",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN100.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN100.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "SPECTRUM",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN101.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN101.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MACHINE",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN102.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN102.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "SPACECRAFT",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN103.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN103.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PINK MOON",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN104.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN104.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "LIGHTS",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN105.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN105.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MELON",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN106.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN106.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "HAPPYGRADI",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN107.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN107.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "POPCORN",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN108.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN108.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "BEETLE",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN109.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN109.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIAL SUN",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN110.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN110.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "ANTS",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN111.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN111.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUNSCAPED",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN112.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN112.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "FISH",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN113.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN113.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "BANNANA",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN114.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN114.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "MOUNTED",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN115.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN115.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "OAKS",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN116.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN116.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    },
+    {
+		"name": "GREEN HEIGHTS",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN117.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN117.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "TYPEWRITER",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN118.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN118.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "AMUSEMENT",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN119.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN119.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    },
+    {
+		"name": "WOODS",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN120.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN120.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "TULIP",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN121.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN121.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "MUG",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN122.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN122.jpg",
+		"collections": "Tropical",
+		"downloadable": "True"
+    },
+    {
 		"name": "MAHOCAN",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA143.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA143.jpg",
