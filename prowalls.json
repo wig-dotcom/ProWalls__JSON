@@ -1,5 +1,58 @@
 [	    
-     {
+   
+    {
+		"name": "CITYLIGHTS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA129.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA129.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "VINTAGE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA130.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA130.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MUSIC PLAYER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA131.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA131.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "ROPEWAY VINTAGE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA132.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA132.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "GRAMOPHONE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA133.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA133.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "HELPING",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA135.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA135.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "80S",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA136.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA136.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
 		"name": "ONE WAY",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA119.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA119.jpg",
