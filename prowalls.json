@@ -1,5 +1,190 @@
 [	    
-   
+   {
+		"name": "Minimal tree",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN123.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN123.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Minimal sunset",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN124.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN124.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Scnerey",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN125.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN125.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Material beach",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN126.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN126.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Sea view",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN127.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN127.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Beach view",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN128.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN128.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Drone view",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN129.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN129.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Minimal stem",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN130.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN130.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Harmony",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN131.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN131.jpg",
+		"collections": "Pixelseries",
+		"downloadable": "True"
+    },
+    {
+		"name": "Sublime",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN132.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN132.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Rocky",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN133.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN133.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Alone",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN134.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN134.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "City set",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN135.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN135.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "Minimal plane",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN136.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN136.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Gradient view",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN137.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN137.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Single tree",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN138.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN138.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "Blue heaven",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN139.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN139.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Blue material",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN140.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN140.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "Night sky",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN141.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN141.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "Red velvet",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN142.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN142.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "Color swirls",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN143.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN143.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "Mounted",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN144.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN144.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "Material shapes",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN145.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN145.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "Green line",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN146.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN146.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "color scapes",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN147.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN147.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "pink scapes",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN148.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN148.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
     {
 		"name": "PIXXY 6A",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/DA158.png",
