@@ -1,5 +1,127 @@
 [	    
-   
+    {
+		"name": "SHOES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA137.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA137.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "TATOO",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA138.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA138.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "SLEEPING BEAUTY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA139.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA139.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "DENIM GIRL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA140.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA140.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "ON GOING",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA141.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA141.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "DRINK OVER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA142.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA142.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "WALL ART",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA143.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA143.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "ON BED",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA144.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA144.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "SKATE GAL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA145.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA145.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "FOREST WAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA146.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA146.jpg",
+		"collections": "Rare IOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "WATERFLOW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA147.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA147.jpg",
+		"collections": "Rare IOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "RIVER GAL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA148.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA148.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "A BUD",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA149.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA149.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "TREE ON BEACH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA150.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA150.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "BIKE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA151.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA151.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "BIRD ON TREE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA152.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA152.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "YELLOWISH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA153.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA153.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
     {
 		"name": "GRADIENT MOUNTAIN",
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT086.png",
@@ -90,7 +212,7 @@
     {
 		"name": "UNUSUAL CLIMATE",
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT098.png",
-		"thumbnail": "hhttps://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT098.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/NT098.jpg",
 		"collections": "RareIOS",
 		"downloadable": "True"
   
