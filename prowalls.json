@@ -1,5 +1,149 @@
 [	    
-    
+   
+    {
+		"name": "SMOKEY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA154.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA154.jpg",
+		"collections": "DopeArts",
+		"downloadable": "False"
+    },
+    {
+		"name": "ART",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA155.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA155.jpg",
+		"collections": "DopeArts",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "PLAYING WITH FIRE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA156.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA156.jpg",
+		"collections": "DopeArts",
+		"downloadable": "False"
+    },
+    {
+		"name": "FACE OFF",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA140.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA157.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "CARDS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA158.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA158.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "ON WAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA159.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA159.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		
+                "name": "HOLOWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA160.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA160.jpg",
+		"collections": "Asthetic",
+		"downloadable": "False"
+    },
+    {
+		"name": "SEA BUBBLE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA161.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA161.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "ELECTRON",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA162.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA162.jpg",
+		"collections": "Nothing",
+		"downloadable": "False"
+    },
+    {
+		"name": "HAND ON HAND",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA163.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA163.jpg",
+		"collections": "Rare IOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "WINTER",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA164.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA164.jpg",
+		"collections": "Rare IOS",
+		"downloadable": "False"
+    },
+    {
+		"name": "STRIPE T",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA165.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA165.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "COUPLES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA166.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA166.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "RED BEAUTY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA167.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA167.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "WHITE JACKET",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA168.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA168.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "SUNSET GIRL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA169.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA169.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "SHOW GIRL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA170.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA170.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    },
+    {
+		"name": "CAMERA ONE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA171.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA171.jpg",
+		"collections": "Dopearts",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "MADLESS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA172.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA172.jpg",
+		"collections": "Dope Beauties",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "SOOTHING",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA173.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA173.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    }, 
     {
 		"name": "BLUE MOUNTAIN",
 		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT90.png",
