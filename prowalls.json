@@ -4,14 +4,14 @@
 		"name": "SMOKEY",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA154.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA154.jpg",
-		"collections": "DopeArts",
+		"collections": "Dope Arts",
 		"downloadable": "False"
     },
     {
 		"name": "ART",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA155.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA155.jpg",
-		"collections": "DopeArts",
+		"collections": "Dope Arts",
 		"downloadable": "False"
     },
     {
@@ -19,12 +19,12 @@
                 "name": "PLAYING WITH FIRE",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA156.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA156.jpg",
-		"collections": "DopeArts",
+		"collections": "Dope Arts",
 		"downloadable": "False"
     },
     {
 		"name": "FACE OFF",
-		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA140.png",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA157.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA157.jpg",
 		"collections": "Dope Beauties",
 		"downloadable": "False"
@@ -34,7 +34,7 @@
                 "name": "CARDS",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA158.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA158.jpg",
-		"collections": "DopeArts",
+		"collections": "Dope Arts",
 		"downloadable": "True"
     },
     {
@@ -127,7 +127,7 @@
 		"name": "CAMERA ONE",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA171.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA171.jpg",
-		"collections": "Dopearts",
+		"collections": "Dope arts",
 		"downloadable": "True"
     }, 
     {
