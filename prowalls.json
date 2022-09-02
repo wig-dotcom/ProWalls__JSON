@@ -1,20 +1,17 @@
 [	    
-   
     { 
 		"name": "GRADI MOUNT",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD091.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD091.jpg",
 		"collections": "Landscape",
-	        "downloadable": "True"
-    
+	        "downloadable": "True"   
     },
     {
 		"name": "ARCH",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD092.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD092.jpg",
 		"collections": "Landscape",
-		"downloadable": "True"
-    
+		"downloadable": "True" 
     },
     {
 		
@@ -23,27 +20,22 @@
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD093.jpg",
 		"collections": "Landscape",
 		"downloadable": "True"
-    
     },
     {
 		"name": "SMUDGES",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD094.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD094.jpg",
 		"collections": "Landscape",
-		"downloadable": "True"
-    
+		"downloadable": "True" 
     },
-    {
-		
+    {	
                 "name": "LEAVES",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD095.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD095.jpg",
 		"collections": "Landscape",
-		"downloadable": "True"
-    
+		"downloadable": "True"  
     },
-    {
-	    
+    {   
 		"name": "ON WAY",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD096.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD096.jpg",
