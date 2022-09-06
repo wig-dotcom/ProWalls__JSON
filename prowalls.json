@@ -167,14 +167,14 @@
 		"name": "SMOKEY",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA154.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA154.jpg",
-		"collections": "Dope Arts",
+		"collections": "DopeArts",
 		"downloadable": "False"
     },
     {
 		"name": "ART",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA155.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA155.jpg",
-		"collections": "Dope Arts",
+		"collections": "DopeArts",
 		"downloadable": "False"
     },
     {
@@ -182,7 +182,7 @@
                 "name": "PLAYING WITH FIRE",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA156.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA156.jpg",
-		"collections": "Dope Arts",
+		"collections": "DopeArts",
 		"downloadable": "False"
     },
     {
@@ -197,7 +197,7 @@
                 "name": "CARDS",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA158.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA158.jpg",
-		"collections": "Dope Arts",
+		"collections": "DopeArts",
 		"downloadable": "True"
     },
     {
