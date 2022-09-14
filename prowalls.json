@@ -1,4 +1,92 @@
 [	    
+  
+    {
+		"name": "ABSPAINT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA174.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA174.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "SCI FI",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA175.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA175.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "NIGHT SCAPE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA176.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA176.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOC STRANGE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA177.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA177.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "DOC ON PROFILE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA178.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA178%20(2).jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "GUN MAN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA179.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA179.jpg",
+		"collections": "DopeArts",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "SEA SORE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA180.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA180.jpg",
+		"collections": "Lanscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "RED EYE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA181.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA181.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "BRIDGE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA182.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA182.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "BEAR BRO",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA183.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA183.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "80S",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA184.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA184.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
+    {
+		"name": "SHOES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA185.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA185.jpg",
+		"collections": "DopeArts",
+		"downloadable": "True"
+    },
     { 
 		"name": "GRADI MOUNT",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD091.png",
