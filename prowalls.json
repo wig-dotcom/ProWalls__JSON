@@ -1,6 +1,86 @@
 [	    
   
     {
+		"name": "BLUE PEAK",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL122.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL122.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "PASTEL BUD",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL123.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL123.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "VASE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL124.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL124.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "DANDELION",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL125.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL125.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "YELLOW FL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL126.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL126.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "SWILING SHIP",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL127.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL127.jpg",
+		"collections": "RareIOS",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "BLUR BUTERFLY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL128.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL128.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLUISH SNOW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL129.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL129.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "MURAL",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL130.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL130.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "ANOTHER BEACH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL131.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL131.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "DAISY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL132.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL132.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
 		"name": "ABSPAINT",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA174.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA174.jpg",
