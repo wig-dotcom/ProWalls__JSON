@@ -1,5 +1,56 @@
 [	    
-  
+  {
+		"name": "RAINBOW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD126.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD126.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "ARCH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD127.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD127.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MATERIAL O",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD128.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD128.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MINIMAL TREES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD129.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD129.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "SUNSET FIRE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD130.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD130.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "PURPLE FLOW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD131.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD131.jpg",
+		"collections": "Minimal",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "INDIA",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD132.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD132.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
     {
 		"name": "EVENING SUNSET",
 		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD118.png",
