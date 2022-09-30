@@ -1,6 +1,58 @@
 [	    
   
     {
+		"name": "EVENING SUNSET",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD118.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD118.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLUE SCAPE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD120.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD120.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "FLOWERS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD121.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD121.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "SKYLIEN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD122.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD122.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PASTEL BUD",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD123.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD123.jpg",
+		"collections": "RareIOS",
+		"downloadable": "True"
+    },
+    {
+		"name": "FOREST SNOW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD124.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD124.jpg",
+		"collections": "RareIOS",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "ANDROID SCAPE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD125.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/LD125.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
 		"name": "BLUE PEAK",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL122.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL122.jpg",
