@@ -1,5 +1,156 @@
 [	
     {
+		"name": "ARCHI 1",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT100.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT100.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "ARCHI 2",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT101.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT101.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "ARCHI 3",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT102.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT102.jpg",
+		"collections": "MATERIAL",
+		"downloadable": "True"
+    },
+    {
+		"name": "ARCHI 4",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT103.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT103.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "FOREST GRAPH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT105.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT105.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRASSESS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT106.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT106.jpg",
+		"collections": "Nature",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "ARCHI 5",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT107.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT107.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "ARCHI 6",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT108.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT108.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "FOGED SKY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT109.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT109.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "ASTHEITIC SUNSET",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT110.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT110.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "HUT IN THE FARM",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT111.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT111.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "ARCHI 7",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT112.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT112.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "GREEN GLOBE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT113%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT113%20(2).jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "BSRRACT MI",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT114.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT114.jpg",
+		"collections": "Ashetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "MAT U",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT115.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT115.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MATERIAL YOU",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT116.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT116.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "ABOVE CLOUDS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT117%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT117%20(2).jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "DEERS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT118%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT118%20(2).jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "GREAT ATMOSPHERE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT119%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT119%20(2).jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "LOLLIPOPS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT120%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT120%20(2).jpg",
+		"collections": "Material",
+		"downloadable": "True"
+    },
+    {
+		"name": "MINNIE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT121%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT121%20(2).jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    }, 
+    {
 		"name": "FEATHER 1",
 		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN149.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN149.jpg",
