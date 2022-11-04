@@ -1,5 +1,49 @@
 [	
     {
+		"name": "SPIDEY AT DYANAMIC ISLAND",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT124.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT124.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "MACHO",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT125.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT125.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "STRANGER TH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT102.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT126.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "HALOWEEN HAND",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT127.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT127.jpg",
+		"collections": "Dope Arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "WOLF AT NIGHT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT128.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT128.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "HALOWEEN SPACE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT129.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT129.jpg",
+		"collections": "Dope Arts",
+   		"downloadable": "True"
+    }, 
+    {
 		"name": "ARCHI 1",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT100.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT100.jpg",
@@ -18,7 +62,7 @@
                 "name": "ARCHI 3",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT102.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT102.jpg",
-		"collections": "MATERIAL",
+		"collections": "Material",
 		"downloadable": "True"
     },
     {
@@ -98,7 +142,7 @@
 		"name": "BSRRACT MI",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT114.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT114.jpg",
-		"collections": "Ashetic",
+		"collections": "Asthetic",
 		"downloadable": "True"
     },
     {
