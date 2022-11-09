@@ -1,4 +1,84 @@
 [	
+     {
+		"name": "SCENIC YELLOW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184812_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184812_0000.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "LEAFS ON B&W",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184837_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184837_0000.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "RED BLOBS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184905_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184905_0000.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "NIGHT SKY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184933_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184933_0000.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "SCAPING NIGHT BLUE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184957_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184957_0000.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "BIRDS ON PARADISE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185026_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185026_0000.jpg",
+		"collections": "Nature",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "MOVING ON A BOAT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185049_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185049_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "FLOWER CLOSE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185144_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185144_0000.jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		"name": "CAR ON HIGHWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185207_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185207_0000.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "PLAYING KIDS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185230_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185230_0000.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "NIGHT MOUNTAIN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185306_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_185306_0000.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
     {
 		"name": "SPIDEY AT DYANAMIC ISLAND",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/NT124.png",
@@ -293,7 +373,7 @@
 		"name": "PLAY TIME",
 		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN163.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/MN163.jpg",
-		"collections": "Ashetic",
+		"collections": "Asthetic",
 		"downloadable": "True"
     },
     {
