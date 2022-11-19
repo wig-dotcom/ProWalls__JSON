@@ -1,5 +1,129 @@
 [	
-     {
+    
+    {
+		"name": "MOUNTAIN SHAPES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT100.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT100.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "MUSHROOM TREES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT101.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT101.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "GRADIENT BEAUTY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT102.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT102.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "GRADI WAVES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT103.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT103.jpg",
+		"collections": "Gradient",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "GRADI FLAMES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT104.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT104.jpg",
+		"collections": "Gradient",
+		"downloadable": "True"
+    },
+    {
+		"name": "PETALS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT105.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT105.jpg",
+		"collections": "Asthetic",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "VIEW SCAPES",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT106.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT106.jpg",
+		"collections": "Landscapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "ROCKED BEACH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT107.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT107.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "ALONE BOAT",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT108.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT108.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "HIGHWAY THROUGH FOREST",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT109.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT109.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLUE DUNE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT110.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT110.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "SMOKEY SNOW MOUNTAIN",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT111.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT111.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "MAT BLUE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT112.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT112.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "FOGEY PEAKS",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT113.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT113.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "BEACH TOUCHING DRONE VIEW",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT114.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT114.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLUE NATURE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT115.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT115.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    }, 
+    {
+		"name": "FLOWERED BEACH",
+		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT116.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT116.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    }, 
+    {
 		"name": "SCENIC YELLOW",
 		"url": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184812_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Material/raw/main/png_20221109_184812_0000.jpg",
