@@ -1,5 +1,113 @@
 [	
-    
+     {
+		"name": "BLUSCAPE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA186.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA186.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "COLORSHURF",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA187.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA187.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "WINDOWS SURFACE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA188.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA188.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "COASTLINE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA189.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA189.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MOUNTAIN ROCK",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA190.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA190.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLUISHSKY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA191.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA191.jpg",
+		"collections": "Asthetic",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "MICROSOFT SURFACE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA192.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA192.jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		"name": "NIGHT FOREST",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA193.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA193.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "MORNING GLORY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA194.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA194.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "SEASHORE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA195.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA195.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "HOMEAWAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA196.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA196.jpg",
+		"collections": "Asthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "GREEN WAY",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA197.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA197.jpg",
+		"collections": "Landscape",
+		"downloadable": "True"
+    },
+    {
+		"name": "YELLOW BUD",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA198.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA198.jpg",
+		"collections": "Material",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "FEATHER BLUE",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA199.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA199.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "BLACK FOREST",
+		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA200.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA200.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    }, 
     {
 		"name": "MOUNTAIN SHAPES",
 		"url": "https://github.com/wig-dotcom/ProWalls_Gradient/raw/main/GRT100.png",
