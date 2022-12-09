@@ -18,7 +18,7 @@
                 "name": "DOODLE 3",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL135.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL135.jpg",
-		"collections": COMIC",
+		"collections": "COMIC",
 		"downloadable": "True"
     },
     {
