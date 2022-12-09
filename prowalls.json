@@ -1,5 +1,85 @@
 [	
-     {
+    {
+		"name": "DOODLE 1",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL133.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL133.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 2",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL134.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL134.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "DOODLE 3",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL135.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL135.jpg",
+		"collections": COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 4",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL136.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL136.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "DOODLE 5",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL137.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL137.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 6",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL138.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL138.jpg",
+		"collections": "COMIC",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "DOODLE 7",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL139.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL139.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 8",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL140.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL140.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 9",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL141.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL141.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 10",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL142.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL142.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
+		"name": "DOODLE 11",
+		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL143.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/FL143.jpg",
+		"collections": "COMIC",
+		"downloadable": "True"
+    },
+    {
 		"name": "BLUSCAPE",
 		"url": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA186.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Dope-Arts/raw/main/DA186.jpg",
