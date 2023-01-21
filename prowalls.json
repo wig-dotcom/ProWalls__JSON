@@ -1,5 +1,49 @@
 [	
   {
+		"name": "sc 1",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/Untitled%20design%20(15).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/Untitled%20design%20(15).jpg",
+		"collections": "sci-fi",
+		"downloadable": "True"
+    },
+    {
+		"name": "sc 2",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/Untitled%20design%20(16).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/Untitled%20design%20(16).jpg",
+		"collections": "sci-fi",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "sc 3",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/a27c308c-752b-4818-864e-b934ec1619dc.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/a27c308c-752b-4818-864e-b934ec1619dc.jpg",
+		"collections": "sci-fi",
+		"downloadable": "True"
+    },
+    {
+		"name": "sc 4",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/a3958832-d8f1-45d4-94c8-44978670b19a.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/a3958832-d8f1-45d4-94c8-44978670b19a.jpg",
+		"collections": "sci-fi",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "sc 5",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/f3e843df-c4f2-4950-8d5d-4768404495ba.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/f3e843df-c4f2-4950-8d5d-4768404495ba.jpg",
+		"collections": "sci-fi",
+		"downloadable": "True"
+    },
+    {
+		"name": "sc 6",
+		"url": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/futuristic-1125x2436.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_MInimal/raw/main/futuristic-1125x2436.jpg",
+		"collections": "sci-fi",
+		"downloadable": "True"
+    },
+    {
 		"name": "Dp 13",
 		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/Untitled%20design%20(20).png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/Untitled%20design%20(20).jpg",
