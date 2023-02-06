@@ -1,5 +1,49 @@
 [	
-  {
+     {	        
+	        "name": "ai 12",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(15).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(15).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "ai 13",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(16).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(16).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "ai 14",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(17).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(17).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "ai 15",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(18).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(18).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "ai 16",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(20).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(20).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "ai 17",
+		"url": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(21).png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Landscape/raw/main/Untitled%20design%20(21).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
 		"name": "ai 7",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/png_20230123_231225_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/png_20230123_231225_0000.jpg",
@@ -35,48 +79,12 @@
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/png_20230124_101825_0000.jpg",
 		"collections": "AI",
 		"downloadable": "True"
-    },
-    {
-		"name": "ai 1",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(30).png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(30).jpg",
-		"collections": "AI",
-		"downloadable": "True"
-    },
-    {
-		"name": "ai 2",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(31).png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(31).jpg",
-		"collections": "AI",
-		"downloadable": "True"
-    },
-    {
-		
-                "name": "ai 3",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(35).png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(35).jpg",
-		"collections": "AI",
-		"downloadable": "True"
+   
     },
     {
 		"name": "ai 4",
 		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(36).png",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(36).jpg",
-		"collections": "AI",
-		"downloadable": "True"
-    },
-    {
-		
-                "name": "ai 5",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(38).png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(38).jpg",
-		"collections": "AI",
-		"downloadable": "True"
-    },
-    {
-		"name": "ai 6",
-		"url": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(39).png",
-		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Fluid/raw/main/Untitled%20design%20(39).jpg",
 		"collections": "AI",
 		"downloadable": "True"
     },
