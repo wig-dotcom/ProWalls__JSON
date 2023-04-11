@@ -1,5 +1,19 @@
 [	
-   {
+  {
+		"name": "mi 6",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/png_20221129_181818_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/png_20221129_181818_0000.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
+		"name": "mi 7",
+		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/png_20221129_182027_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/png_20221129_182027_0000.jpg",
+		"collections": "Minimal",
+		"downloadable": "True"
+    },
+    {
 		"name": "ai 52",
 		"url": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/Rocket%20Launcher%20at%20Desert%20-%20Best%20AI%20Wallpapers%20TechRushi.com.jpg",
 		"thumbnail": "https://github.com/wig-dotcom/ProWalls_Nature/raw/main/Rocket%20Launcher%20at%20Desert%20-%20Best%20AI%20Wallpapers%20TechRushi.com%20(4).jpg",
